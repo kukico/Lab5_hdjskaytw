@@ -21,6 +21,6 @@ cache:
 
 deploy:
   provider: heroku
-  api_key: use-your-own-key-here
-  app: thenameofmygithubproject
+  api_key: 84e72b75-8fcf-4d93-a1fd-c64907b8f67b
+  app: lab5-hdjskaytw
   skip_cleanup: true
